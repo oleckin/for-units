@@ -1,0 +1,11 @@
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/bin/Debug/netcoreapp2.1/ConsoleApp_for_unit.deps.json
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/bin/Debug/netcoreapp2.1/ConsoleApp_for_unit.runtimeconfig.json
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/bin/Debug/netcoreapp2.1/ConsoleApp_for_unit.runtimeconfig.dev.json
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/bin/Debug/netcoreapp2.1/ConsoleApp_for_unit.dll
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/bin/Debug/netcoreapp2.1/ConsoleApp_for_unit.pdb
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.csproj.CoreCompileInputs.cache
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.AssemblyInfoInputs.cache
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.AssemblyInfo.cs
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.dll
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.pdb
+/Users/dodo/ConsoleApp_for_unit/ConsoleApp_for_unit/obj/Debug/netcoreapp2.1/ConsoleApp_for_unit.csprojResolveAssemblyReference.cache
