@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dodo/what_watch_today/what_watch_today/what_watch_today.csproj",
+      "projectUniqueName": "/Users/dodo/for-units/what_watch_today/what_watch_today/what_watch_today.csproj",
       "projectName": "what_watch_today",
-      "projectPath": "/Users/dodo/what_watch_today/what_watch_today/what_watch_today.csproj",
+      "projectPath": "/Users/dodo/for-units/what_watch_today/what_watch_today/what_watch_today.csproj",
       "packagesPath": "/Users/dodo/.nuget/packages/",
-      "outputPath": "/Users/dodo/what_watch_today/what_watch_today/obj/",
+      "outputPath": "/Users/dodo/for-units/what_watch_today/what_watch_today/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

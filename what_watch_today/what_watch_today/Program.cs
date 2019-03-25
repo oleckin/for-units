@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace what_watch_today
 {
@@ -14,7 +15,7 @@ namespace what_watch_today
             Console.WriteLine("Какой мультик ты хочешь посмотреть весёлый, добрый, музыкальный, поучительный или сказку?");
             
             String genre = Console.ReadLine();
-            
+             
             if (genre == "весёлый")
             {
                 Console.ForegroundColor = ConsoleColor.Blue;
@@ -22,6 +23,8 @@ namespace what_watch_today
                 Console.WriteLine("Ну, погоди!");
                 Console.WriteLine("Простоквашино.");
                 Console.WriteLine("Бобик в гостях у Барбоса.");
+
+                //searchFilm = "Простоквашино"; //переделать на выбранный фильм
             }
             
             else if (genre == "добрый")
@@ -56,7 +59,12 @@ namespace what_watch_today
                 Console.WriteLine("Гора самоцветов.");
                 Console.WriteLine("Конёк-горбунок.");    
             }
-
+                                              
+            Console.WriteLine("Какой из этих мультфильмов тебе найти?");
+            var searchFilm = Console.ReadLine();         
+            Process.Start("open", $"https://www.google.com/search?q={searchFilm}"); //интерполяция строк
+                
+            
             Console.ReadLine();
         }
     }

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tartilla" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="mono_crash.63053b3dc.0.json" t="Include" />
+        <e p="mono_crash.63053b3dc.1.json" t="Include" />
+        <e p="mono_crash.63053b3dc.2.json" t="Include" />
+        <e p="mono_crash.63053b3e0.0.json" t="Include" />
+        <e p="mono_crash.63053b3e0.1.json" t="Include" />
+        <e p="mono_crash.63053b3e0.2.json" t="Include" />
+        <e p="mono_crash.mem.17992.1.blob" t="Include" />
+        <e p="mono_crash.mem.18251.1.blob" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net45" t="Include">
+              <e p="Tartilla.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Tartilla.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tartilla.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Tartilla.-1146200676.00" t="ExcludeRecursive" />
+  </component>
+</project>

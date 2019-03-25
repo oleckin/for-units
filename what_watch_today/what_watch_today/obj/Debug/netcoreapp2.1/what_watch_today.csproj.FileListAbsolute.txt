@@ -9,3 +9,14 @@
 /Users/dodo/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.dll
 /Users/dodo/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.pdb
 /Users/dodo/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.csprojResolveAssemblyReference.cache
+/Users/dodo/for-units/what_watch_today/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.deps.json
+/Users/dodo/for-units/what_watch_today/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.runtimeconfig.json
+/Users/dodo/for-units/what_watch_today/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.runtimeconfig.dev.json
+/Users/dodo/for-units/what_watch_today/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.dll
+/Users/dodo/for-units/what_watch_today/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.pdb
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.csprojAssemblyReference.cache
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.csproj.CoreCompileInputs.cache
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.AssemblyInfoInputs.cache
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.AssemblyInfo.cs
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.dll
+/Users/dodo/for-units/what_watch_today/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.pdb
