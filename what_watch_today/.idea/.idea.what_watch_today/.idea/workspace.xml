@@ -1,139 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="219d63fe-daf6-41a1-ab3f-2b0c78f84958" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.idea/.idea.Tartilla/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.vs/Tartilla/xs/UserPrefs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.vs/Tartilla/xs/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.vs/Tartilla/xs/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.vs/Tartilla/xs/sqlite3/storage.ide-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/.vs/Tartilla/xs/sqlite3/storage.ide-wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/SmallBasicLibrary.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/Tartilla.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Fonts/GlobalMonospace.CompositeFont" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Fonts/GlobalSansSerif.CompositeFont" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Fonts/GlobalSerif.CompositeFont" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Fonts/GlobalUserInterface.CompositeFont" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/NaturalLanguage6.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/NlsData0009.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/NlsLexicons0009.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PenIMC.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PenIMC2_v0400.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PenIMC_v0400.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationBuildTasks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework-SystemCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework-SystemData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework-SystemDrawing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework-SystemXml.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework-SystemXmlLinq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.Aero.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.Aero2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.AeroLite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.Classic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.Luna.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.Royale.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationHost_v0400.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationNative_v0400.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/PresentationUI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ReachFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/SmallBasicLibrary.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/System.Printing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/System.Speech.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/System.Windows.Controls.Ribbon.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/System.Windows.Input.Manipulations.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/System.Windows.Presentation.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Tartilla.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/Tartilla.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/UIAutomationClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/UIAutomationClientsideProviders.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/UIAutomationProvider.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/UIAutomationTypes.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/WindowsBase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/WindowsFormsIntegration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/en-US/PresentationHost_v0400.dll.mui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru-RU/PresentationHost_v0400.dll.mui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/PresentationBuildTasks.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/PresentationCore.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/PresentationFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/PresentationUI.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/ReachFramework.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/System.Printing.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/System.Speech.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/System.Windows.Controls.Ribbon.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/System.Windows.Input.Manipulations.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/System.Windows.Presentation.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/UIAutomationClient.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/UIAutomationClientsideProviders.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/UIAutomationProvider.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/UIAutomationTypes.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/WindowsBase.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/ru/WindowsFormsIntegration.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/wpf-etw.man" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/bin/Debug/net45/wpfgfx_v0400.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3dc.0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3dc.1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3dc.2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3e0.0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3e0.1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.63053b3e0.2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.mem.17992.1.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/mono_crash.mem.18251.1.blob" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net45/Tartilla.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net471/Tartilla.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net471/Tartilla.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net471/Tartilla.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/net471/Tartilla.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/netcoreapp2.1/Tartilla.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/netcoreapp2.1/Tartilla.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/netcoreapp2.1/Tartilla.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/netcoreapp2.1/Tartilla.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Debug/netcoreapp2.1/Tartilla.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Tartilla.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Tartilla.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/Tartilla.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tartilla/Tartilla/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.xcworkspace/xcuserdata/dodo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/xcuserdata/dodo.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.what_watch_today/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.what_watch_today/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.what_watch_today/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="219d63fe-daf6-41a1-ab3f-2b0c78f84958" name="Default Changelist" comment="commit for unit">
+      <change beforePath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.xcworkspace/xcuserdata/dodo.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1.xcodeproj/project.xcworkspace/xcuserdata/dodo.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_unite_1/for_unite_1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../for_unite_1/for_unite_1/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.what_watch_today/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.what_watch_today/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/what_watch_today/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.dll" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/bin/Debug/netcoreapp2.1/what_watch_today.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.dll" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/Debug/netcoreapp2.1/what_watch_today.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/what_watch_today.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/what_watch_today.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/what_watch_today/obj/what_watch_today.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/what_watch_today/obj/what_watch_today.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,18 +22,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/what_watch_today/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+            <state relative-caret-position="86">
+              <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
               <folding>
-                <marker date="1553354357862" expanded="true" signature="6:39" ph="..." />
-                <marker date="1553354357862" expanded="true" signature="67:2751" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="87:2749" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="133:2743" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="673:1075" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="1128:1387" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="1445:1717" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="1777:2089" ph="{...}" />
-                <marker date="1553354357862" expanded="true" signature="2127:2388" ph="{...}" />
+                <marker date="1554475161328" expanded="false" signature="6:39" ph="..." />
+                <marker date="1554475161328" expanded="true" signature="67:2989" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="87:2987" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="133:2981" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="635:1054" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="1107:1385" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="1443:1729" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="1789:2117" ph="{...}" />
+                <marker date="1554475161328" expanded="true" signature="2155:2560" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -166,11 +42,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11B29E25-4EB4-48F1-B9B8-6EDA6FDF8EEC/81/fac9e103/Process.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="1215" column="7" lean-forward="true" selection-start-line="1215" selection-start-column="7" selection-end-line="1215" selection-end-column="7" />
+            <state relative-caret-position="18090">
+              <caret line="1215" column="7" selection-start-line="1215" selection-start-column="7" selection-end-line="1215" selection-end-column="7" />
               <folding>
                 <marker date="1553261697761" expanded="true" signature="0:340" ph="/* Decompiled with JetBrains decompiler ... */" />
-                <marker date="1553261697761" expanded="false" signature="348:627" ph="..." />
                 <marker date="1553261697761" expanded="true" signature="657:50479" ph="{...}" />
                 <marker date="1553261697761" expanded="true" signature="707:50477" ph="{...}" />
                 <marker date="1553261697761" expanded="true" signature="3002:3272" ph="{...}" />
@@ -468,6 +343,7 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -475,17 +351,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="what_watch_today" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="what_watch_today" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="what_watch_today" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,11 +419,13 @@
       <workItem from="1552916848215" duration="1108000" />
       <workItem from="1553243402913" duration="459000" />
       <workItem from="1553260979605" duration="3434000" />
+      <workItem from="1553540778535" duration="1132000" />
+      <workItem from="1554461326941" duration="5837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13618000" />
+    <option name="totallyTimeSpent" value="20587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,17 +437,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1440" height="792" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="792" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31714284" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4642857" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39714286" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -586,7 +458,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.5939759" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.5914286" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -600,6 +472,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit for unit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for unit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -607,17 +483,47 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/what_watch_today/Program.cs</url>
+          <line>78</line>
+          <properties documentPath="$PROJECT_DIR$/what_watch_today/Program.cs" initialLine="64">
+            <startOffsets>
+              <option value="2830" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2926" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/what_watch_today/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+          <folding>
+            <marker date="1554475161328" expanded="false" signature="6:39" ph="..." />
+            <marker date="1554475161328" expanded="true" signature="67:2989" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="87:2987" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="133:2981" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="635:1054" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="1107:1385" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="1443:1729" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="1789:2117" ph="{...}" />
+            <marker date="1554475161328" expanded="true" signature="2155:2560" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11B29E25-4EB4-48F1-B9B8-6EDA6FDF8EEC/81/fac9e103/Process.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="1215" column="7" lean-forward="true" selection-start-line="1215" selection-start-column="7" selection-end-line="1215" selection-end-column="7" />
+        <state relative-caret-position="18090">
+          <caret line="1215" column="7" selection-start-line="1215" selection-start-column="7" selection-end-line="1215" selection-end-column="7" />
           <folding>
             <marker date="1553261697761" expanded="true" signature="0:340" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1553261697761" expanded="false" signature="348:627" ph="..." />
             <marker date="1553261697761" expanded="true" signature="657:50479" ph="{...}" />
             <marker date="1553261697761" expanded="true" signature="707:50477" ph="{...}" />
             <marker date="1553261697761" expanded="true" signature="3002:3272" ph="{...}" />
@@ -881,24 +787,6 @@
             <marker date="1553261697761" expanded="true" signature="50128:50208" ph="{...}" />
             <marker date="1553261697761" expanded="true" signature="50241:50303" ph="{...}" />
             <marker date="1553261697761" expanded="true" signature="50327:50473" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/what_watch_today/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
-          <folding>
-            <marker date="1553354357862" expanded="true" signature="6:39" ph="..." />
-            <marker date="1553354357862" expanded="true" signature="67:2751" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="87:2749" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="133:2743" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="673:1075" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="1128:1387" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="1445:1717" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="1777:2089" ph="{...}" />
-            <marker date="1553354357862" expanded="true" signature="2127:2388" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -11,5 +11,16 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    
+    int a = 40;
+    printf("переменная имеет значение: %d \n", a);
+    printf("переменная находится по адресу: %p \n", &a);
+    
+    int input;
+    printf("введи число:");
+    scanf("%d", &input);
+    printf("мы удвоили число: %d\n", input*2);
+    
     return 0;
+    
 }
